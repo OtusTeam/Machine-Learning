@@ -1,5 +1,5 @@
-# Machine Learning
+# Machine Learning Basic
 
 ### Занятия
 
-- [Урок название](lessons/lesson.folder/)
+- [10. Тесты: unittest, pytest, fixtures, mock, parametrize](lessons/lesson.10/)
