@@ -1,5 +1,5 @@
-# Machine Learning
+# ML Basic 2022-02
 
 ### Занятия
 
-- [Урок название](lessons/lesson.folder/)
+- [11. Файлы и сеть: HTTP, статус коды, заголовки; работа с файлами, csv](lessons/lesson.11/)
