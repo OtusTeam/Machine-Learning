@@ -1,2 +1,2 @@
-sentence = 'hello world'
+sentence = 'hello world!'
 parts = sentence.split()
